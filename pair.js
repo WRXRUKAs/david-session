@@ -58,17 +58,20 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃RED-SAMURAI-MD_V2 SESSION IS 
+┃RED-SAMURAI-ALL-BOT SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED 🥷┃🧧
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❶ || Creator = 𖥘 DEDUNU RUKSHAN 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VawQLgP30LKW5sLcS01B
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vb0pFMeGOj9r28xCQJ0w
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/d-rukshan 👈
+Wanna talk to me?🥷 https://t.me/d-rukshan 🥷💨
+
+👋 HI I AM RED SAMURAY IN POWERFUL YAKUZA TEM🥷
+🪪 SESSION ID
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2024-2099 RED SAMURAI IN RUKA*
 
